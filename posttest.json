@@ -1,0 +1,50 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Chemical Oxygen Demand (COD) is used the quantification of",
+      "answers": {
+        "a": "Organic",
+        "b": "Inorganic",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.The chemical oxygen demand measures the ……….",
+      "answers": {
+        "a": "Amount of oxygen required for growth of microorganism in water",
+        "b": "Amount of oxygen that would be then removed from the water inorder to oxidize pollution",
+        "c": "Amount of oxygen required to oxidize the calcium present in waste water",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Potassium dichromate in this test is used as",
+      "answers": {
+        "a": "Oxidant",
+        "b": "Dye",
+        "c": "Catalyst",
+        "d": "Both a and c"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.The liquid hazardous wastes generated as a result of COD test are",
+      "answers": {
+        "a": "Acid",
+        "b": "Chromium",
+        "c": "Silver",
+        "d": "Mercury",
+        "e": "All the above"
+      },
+      "correctAnswer": "e",
+      "difficulty": "beginner"
+    }
+  ]
+}
