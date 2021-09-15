@@ -2,37 +2,48 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.Usually COD test values are",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Greater than BOD test values",
+        "b": "Less than BOD test values",
+        "c": "Almost equal to BOD test values",
+        "d": "None of the above"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.The chemical oxygen demand measures the ……….",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Amount of oxygen required for growth of microorganism in water",
+        "b": "Amount of oxygen that would be then removed from the water inorder to oxidize pollution",
+        "c": "Amount of oxygen required to oxidize the calcium present in waste water",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Potassium dichromate in this test is used as",
+      "answers": {
+        "a": "Oxidant",
+        "b": "Dye",
+        "c": "Catalyst",
+        "d": "Both a and c"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.The liquid hazardous wastes generated as a result of COD test are",
+      "answers": {
+        "a": "Acid",
+        "b": "Chromium",
+        "c": "Silver",
+        "d": "Mercury",
+        "e": "All the above"
+      },
+      "correctAnswer": "e",
       "difficulty": "beginner"
     }
   ]
