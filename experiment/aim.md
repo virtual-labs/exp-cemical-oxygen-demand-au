@@ -1,1 +1,5 @@
-### Aim of the experiment
+## Objective
+ 
+&nbsp;
+
+To determine chemical oxygen demand of the given unknown sample
